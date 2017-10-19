@@ -7,4 +7,4 @@ with open("dir_cfg.ini") as f:
     dictx["dataDir"] = lines[1].split('=')[0].strip()
     for k in dictx:
         print(k, dictx[k])
-        # haha
+        # haha pp
